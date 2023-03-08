@@ -2,7 +2,7 @@
 
 Contact me: tg @hahHEHEH
 
-<h3><span style="color: #2336f7"> My stack will increase, but now it's as follow:</span></h3>
+<h3><span style="color: #2336f7"> My stack is:</span></h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
