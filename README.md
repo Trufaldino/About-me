@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Anthony+and+I+like+to+study+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&lines=.+.+.)](https://git.io/typing-svg)
 
 Contact me: tg @hahHEHEH
 
