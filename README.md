@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&lines=a+a)](https://git.io/typing-svg)
-
 Contact me: tg @hahHEHEH
 
 <h3><span style="color: #2336f7"> My stack is:</span></h3>
